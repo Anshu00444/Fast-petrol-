@@ -1,2 +1,4 @@
 # Fast-petrol-
-App ka dukh hamra dukh
+- User App (petrol request)
+- Delivery App (tow to pump)
+- Admin Panel (manage & monitor)
